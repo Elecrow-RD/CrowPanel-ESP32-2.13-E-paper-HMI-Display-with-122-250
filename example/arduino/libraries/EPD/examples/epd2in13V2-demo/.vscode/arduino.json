@@ -1,0 +1,5 @@
+{
+    "port": "COM69",
+    "board": "arduino:avr:uno",
+    "sketch": "epd2in13V2-demo.ino"
+}
