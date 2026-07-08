@@ -13,7 +13,6 @@ Check whether the materials on the PCBA board are defective. Such as less materi
 
 ##### Step1 Connect the ESP32 display to the laptop/PC with USB-C cable. The power indicator will light up.
 
-![flash01](./flash01.jpg)
 
 ##### Step2 Open the flash download tool. 
 
@@ -55,6 +54,3 @@ xxxx.ino.partitions.bin-------0x8000
 
 ![flash2](./flash2.jpg)
 
-##### Step6 Press the reset button to show the demo.
-
-![flash8](./flash8.jpg)
